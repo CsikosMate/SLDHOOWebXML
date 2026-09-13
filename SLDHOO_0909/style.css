@@ -1,0 +1,42 @@
+body{
+    background-image: url(kepek/bg.jpg);
+    color: whitesmoke;
+    font-size: 22px;
+}
+
+a{
+    color: aliceblue;
+}
+
+footer{
+    color: rgb(250, 235, 215);
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    margin: 20px;
+}
+
+#iit{
+    width: 100%;
+}
+
+.illusztracio{
+    height: 400px;
+}
+
+#lejatszo{
+    display: block;
+    margin: 20px auto;
+}
+
+table{
+    width: 100%;
+}
+td:has(.illusztracio){
+    width: 50%;
+    text-align: center;
+}

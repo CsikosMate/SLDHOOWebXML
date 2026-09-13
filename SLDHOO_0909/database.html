@@ -3,36 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kezdőlap</title>
+    <title>Adatbázis rendszerek</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <a href="kezdolap.html">
-        <img src="kepek/iit.jpg" alt="">
+        <img id="iit" src="kepek/iit.jpg" alt="">
     </a>
     <nav>
         <a href="database.html">Adatbázis rendszerek</a>
-        <a href="">Web technológiák 1</a>
-        <a href="">Webes adatkezelő környezetek</a>
+        <a href="webtech.html">Web technológiák 1</a>
+        <a href="webxml.html">Webes adatkezelő környezetek</a>
     </nav>
     <h1>Adatbázis rendszerek</h1>
-    <p>Tematika:</p>
-    <ol>
-        <li>Natív SQL API jellemzése; API kategóriák működési modell megismerése, tárolt eljárások áttekintése; PL/SQL alapjai, PL/SQL blokk elemei.  blokkok létrehozatala, vezérlési elemek, SQL alapok</li>
-        <li>PL/SQL nyelv adattípusai, tömbök és struktúrák kezelése, hibakezelés, táblatípusok. Kapcsolat az adatbázis objektumokkal. </li>
-        <li>PL/SQL csomagok kezelése, gyári csomagok használata, sztring kezelés, dátum kezelés</li>
-        <li>ECA modell elemei, adatbázis triggerek működése, triggerek kódolása, elemzése</li>
-        <li>Tranzakciókezelés I, az ACID elv, tranzakció komponensei, history  típusok</li>
-        <li>Tranzakciókezelés II, zárolási és időbélyeg módszerek, szinkronizáció problémái; izolációs szintek</li>
-        <li>Oracle APEX fejlesztői környezet, az APEX működési modellje</li>
-        <li>Alkalmazás fejlesztés APEX-ben, Űrlaptípusok használata, események és megkötések kezelése</li>
-        <li>JDBC SQL API elemei, kapcsolati módok; parancskezelő osztályok, adatlekérdezés, információlekérdezés</li>
-        <li>JDBC SQL API elemei, kapcsolati módok; parancskezelő osztályok, adatlekérdezés, információlekérdezés</li>
-        <li>ADO .Net SQL API elemei, kapcsolati módok; parancskezelő osztályok, adatlekérdezés, információlekérdezés</li>
-        <li>A művelet végrehajtás struktúrája. Algebrai műveleti gráf; A QEP fizikai optimalizálása, a műveletek hatékonyságánaknövelése</li>
-        <li>A  LINQ. működési modellje  A λ-kalkulus áttekintése A LINQ nyelv architektúrája, LINQ API használata</li>
-        <li>Összefoglalás</li>
-    </ol>
-    <img src="kepek/db.png" alt="">
+    <p>Kredit: 5</p>
+    <p>Ajánlott félév: 3</p>
+    <table>
+        <tr>
+            <td>
+                <p>Tematika:</p>
+                <ol>
+                    <li>Adatkezelés alapfogalmai, adatperzisztencia szintje,  a file kezelés struktúrája és funkciói.  C alapú filekezelés,  Java alapú filekezelés</li>
+                    <li>RDBMS alapfogalmai;  DB fejlesztés lépései, SDM modellek áttekintése, ER adatmodell, az ER alapú modellezés lépései</li>
+                    <li>ER adatmodellezés módszertana, az EER és UML adatmodellek. Relációs adatmodell, relációs struktúra és integritási feltételek. ER modell konverziója.</li>
+                    <li>SQL nyelv áttekintése, SQL DDL nyelvi elemek.</li>
+                    <li>Szerver  architektúra,SQLite és az Oracle APEX és Oracle SQLDeveloper felület. </li>
+                    <li>Relációs adatmodell műveleti része, relációs algebra. SQL DML és DQL alapok.</li>
+                    <li>SQL SELECT utasítás további elemei, kapcsolódás a relációs algebrához, al-SELECT és összetett lekérdezések.</li>
+                    <li>SQL speciáis elemei: dátum kezelés, sztring kezelés. Tranzakció elemei, VIEW mechanizmus.   Fizikai szintű tárolási módszerek, indexelés </li>
+                    <li>Az adatmodellezés problémái, a függőségek szerepe. Függőségek szabályai, Normálformák. </li>
+                    <li>Dekompozíciós szabályok. Adatbázisok de-normalizálása, N1NF adatbázisok.  </li>
+                    <li>Az SQLite DBMS architektúra elemei, SQL-API rendszerek, SQL_API típusai; SQLite API C nyelvből, C programok fejlesztése</li>
+                    <li>A JDBC  keretrendszer architektúrája, JDBC - Java osztályok, alap funkciókat megvalósító Java JDBC programok fejlesztése.</li>
+                    <li>Adatbázisok védelmi modelljei, A DAC védelmi modell, szerepkörök alkalmazása; a MAC védelmi modell elemei.</li>
+                    <li>Kitekintés a NoSQL modelleke. Felhő alapú adatbázisok.</li>
+                </ol>
+            </td>
+            <td>
+                <img class="illusztracio" src="kepek/db.png" alt="">
+            </td>
+        </tr>
+    </table>
     <footer>Csikos Máté, SLDHOO, 2026</footer>
 </body>
 </html>
