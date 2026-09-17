@@ -110,10 +110,9 @@
         <oktato>Huszák Péter</oktato>
         <szak>Mérnökinformatikus</szak>
     </ora>
-</ora>
-<ora id="ora_011" tipus="gyakorlat">
-    <targy>Windows rendszergazda</targy>
-    <idopont>
+    <ora id="ora_011" tipus="gyakorlat">
+        <targy>Windows rendszergazda</targy>
+        <idopont>
             <nap>Kedd</nap>
             <tol>18</tol>
             <ig>20</ig>

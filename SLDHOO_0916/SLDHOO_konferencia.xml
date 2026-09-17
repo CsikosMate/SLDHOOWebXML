@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<konferencia>
+    <cim>Konferencia</cim>
+    <hallgatok>
+        <hallgato>
+            <nev>Zsíros B Ödön</nev>
+            <lakcim>3574 Bőcs, Rákóczi Ferenc u. 81</lakcim>
+        </hallgato>
+    </hallgatok>
+    <helyszin>3515 Miskolc, Egyetem út 1</helyszin>
+    <eloado>
+        <nev>Hát Izsák</nev>
+        <adoszam>67841294</adoszam>
+        <lakcim>1033 Budapest, Szőlőkert köz 6</lakcim>
+    </eloado>
+    <datum>2026.09.16</datum>
+</konferencia>
