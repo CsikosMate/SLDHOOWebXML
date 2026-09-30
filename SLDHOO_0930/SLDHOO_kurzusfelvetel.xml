@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE kurzusfelvetel SYSTEM "SLDHOO_kurzusfelvetel.dtd">
+
+<kurzusfelvetel tanev="2026_2027 I." egyetem="ME">
+    <hallgato>
+        <hnev>Csikos Máté</hnev>
+        <szulev>2005</szulev>
+        <szak evf="3">Mérnökinformatikus</szak>
+    </hallgato>
+
+    <kurzusok>
+        <kurzus id="k01">
+            <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
+            <kredit>5</kredit>
+            <hely>Inf/101</hely>
+            <idopont>Szerda 12:00-13:30</idopont>
+            <oktato>Dr. Bednarik László</oktato>
+        </kurzus>
+        <kurzus id="k02">
+            <kurzusnev>Web technológiák</kurzusnev>
+            <kredit>5</kredit>
+            <hely>Inf/101</hely>
+            <idopont>Hétfő 14:00-15:30</idopont>
+            <oktato>Dr. Agárdi Anita</oktato>
+        </kurzus>
+    </kurzusok>
+</kurzusfelvetel>

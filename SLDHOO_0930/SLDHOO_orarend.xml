@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE SLDHOO_orarend SYSTEM "SLDHOO_orarend.dtd">
+
+<SLDHOO_orarend>
+    <ora id="ora_001" tipus="eloadas">
+        <targy>Elektrotechnika elektronika</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>III A4 fsz.</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_002" tipus="eloadas">
+        <targy>WEB technológiák 1.</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>10</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>V A1 magasfsz3-4.</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_003" tipus="eloadas">
+        <targy>Angol műszaki szaknyelv</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>12</tol>
+            <ig>14</ig>
+        </idopont>
+        <helyszin>C2 205</helyszin>
+        <oktato>Dorkó Dóra</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_004" tipus="gyakorlat">
+        <targy>WEB technológiák 1.</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>14</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>In I. e. 101</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_005" tipus="eloadas">
+        <targy>Mobil programozási alapok</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>16</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>In I. e. 101</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_006" tipus="gyakorlat">
+        <targy>Mobil programozási alapok</targy>
+        <idopont>
+            <nap>Hétfő</nap>
+            <tol>18</tol>
+            <ig>20</ig>
+        </idopont>
+        <helyszin>In I. e. 101</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_007" tipus="gyakorlat">
+        <targy>Mesterséges inteligencia alapjai</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>XXXIII A1 magasfsz</helyszin>
+        <oktato>Fazekas Levente</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_008" tipus="eloadas">
+        <targy>Mesterséges inteligencia alapjai</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>10</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>XXXII A1 magasfsz</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_009" tipus="gyakorlat">
+        <targy>Elektrotechnika elektronika</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>14</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>A1 III. em. 308</helyszin>
+        <oktato>Szabó Norbert</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_010" tipus="eloadas">
+        <targy>Windows rendszergazda</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>16</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>In I. em. 103</helyszin>
+        <oktato>Huszák Péter</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_011" tipus="gyakorlat">
+        <targy>Windows rendszergazda</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>18</tol>
+            <ig>20</ig>
+        </idopont>
+        <helyszin>In I. em. 103</helyszin>
+        <oktato>Huszák Péter</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_012" tipus="eloadas">
+        <targy>Webes adatkezelő környezetek</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>In II. em. 202</helyszin>
+        <oktato>Kovács László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+    <ora id="ora_013" tipus="gyakorlat">
+        <targy>Webes adatkezelő környezetek</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>12</tol>
+            <ig>14</ig>
+        </idopont>
+        <helyszin>In I. em. 101</helyszin>
+        <oktato>Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+</SLDHOO_orarend>
