@@ -16,7 +16,7 @@
 
 <!ELEMENT kurzusok (kurzus*)>
 
-<!ELEMENT kurzus (kurzusnev, kredit, hely, idopont?, (oktato, oraado)+ )>
+<!ELEMENT kurzus (kurzusnev, kredit, hely, idopont?, (oktato | oraado)+ )>
 <!ATTLIST kurzus
         id ID #REQUIRED
         jovahagyas (igen | nem) "nem"
@@ -27,3 +27,4 @@
 <!ELEMENT hely (#PCDATA)>
 <!ELEMENT idopont (#PCDATA)>
 <!ELEMENT oktato (#PCDATA)>
+<!ELEMENT oraado (#PCDATA)>

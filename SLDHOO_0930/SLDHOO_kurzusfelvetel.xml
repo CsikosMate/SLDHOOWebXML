@@ -3,25 +3,48 @@
 <!DOCTYPE kurzusfelvetel SYSTEM "SLDHOO_kurzusfelvetel.dtd">
 
 <kurzusfelvetel tanev="2026_2027 I." egyetem="ME">
-    <hallgato>
+    <hallgato id="SLDHOO">
         <hnev>Csikos Máté</hnev>
         <szulev>2005</szulev>
         <szak evf="3">Mérnökinformatikus</szak>
     </hallgato>
 
     <kurzusok>
-        <kurzus id="k01">
+        <kurzus id="GEIAL32K-B2">
             <kurzusnev>Webes adatkezelő környezetek</kurzusnev>
             <kredit>5</kredit>
             <hely>Inf/101</hely>
             <idopont>Szerda 12:00-13:30</idopont>
             <oktato>Dr. Bednarik László</oktato>
         </kurzus>
-        <kurzus id="k02">
-            <kurzusnev>Web technológiák</kurzusnev>
+        <kurzus id="GEIAL331-B2">
+            <kurzusnev>Web technológiák 1.</kurzusnev>
             <kredit>5</kredit>
             <hely>Inf/101</hely>
             <idopont>Hétfő 14:00-15:30</idopont>
+            <oktato>Dr. Agárdi Anita</oktato>
+        </kurzus>
+        <kurzus id="GEVEE050-B2" jovahagyas="igen" nyelv="magyar">
+            <kurzusnev>Elektrotechnika-elektronika</kurzusnev>
+            <kredit>5</kredit>
+            <hely>III. előado</hely>
+            <idopont>Hétfő 8:00-9:30</idopont>
+            <oktato>Szabó Norbert</oktato>
+            <oraado>Szabó Norbert</oraado>
+        </kurzus>
+        <kurzus id="GEIAK130-B2" jovahagyas="igen" nyelv="magyar">
+            <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>XXXIII. előado</hely>
+            <idopont>Kedd 8:00-9:30</idopont>
+            <oktato>Kunné Dr. Tamás Judit</oktato>
+            <oraado>Fazekas Levente</oraado>
+        </kurzus>
+        <kurzus id="GEIAL335-B2" jovahagyas="igen" nyelv="magyar">
+            <kurzusnev>Mobil programozási alapok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>Inf/101</hely>
+            <idopont>Hétfő 16:00-17:30</idopont>
             <oktato>Dr. Agárdi Anita</oktato>
         </kurzus>
     </kurzusok>
