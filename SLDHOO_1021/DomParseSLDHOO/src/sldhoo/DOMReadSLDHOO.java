@@ -16,7 +16,6 @@ public class DOMReadSLDHOO {
     public static void main(String[] args) throws SAXException, IOException, ParserConfigurationException {
 
         // Ebből a fájlból olvas
-        //File xmlFile = new File("C:\\Users\\ADMIN\\Documents\\GitHub\\SLDHOOWebXML\\SLDHOO_1021\\DomParseNeptunkod\\src\\SLDHOO_vendeglatas.xml");
         File xmlFile = new File("SLDHOO_vendeglatas.xml");
 
         //A DocumentBuilderFactory-ból megkaojuk a DocumentBuildert
