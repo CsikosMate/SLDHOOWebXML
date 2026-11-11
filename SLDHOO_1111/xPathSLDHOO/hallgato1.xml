@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hallgatok><hallgato id="01">
+        <kersztnev>Pál</kersztnev>
+        <vezeteknev>Kiss</vezeteknev>
+        <becenev>Pali</becenev>
+        <kor>21</kor>
+</hallgato>
+<hallgato id="02">
+        <kersztnev>Piroska</kersztnev>
+        <vezeteknev>Vigh</vezeteknev>
+        <becenev>Piri</becenev>
+        <kor>20</kor>
+</hallgato>
+</hallgatok>

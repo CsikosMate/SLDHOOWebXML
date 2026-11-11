@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<class xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="studentSldhoo.xsd">
+    <hallgato id="01">
+        <keresztnev>Pál</keresztnev>
+        <vezeteknev>Kiss</vezeteknev>
+        <becenev>Pali</becenev>
+        <kor>21</kor>
+    </hallgato>
+    <hallgato id="02">
+        <keresztnev>Piroska</keresztnev>
+        <vezeteknev>Vigh</vezeteknev>
+        <becenev>Piri</becenev>
+        <kor>20</kor>
+    </hallgato>
+    <hallgato id="03">
+        <keresztnev>Ferenc</keresztnev>
+        <vezeteknev>Gordon</vezeteknev>
+        <becenev>Feri</becenev>
+        <kor>22</kor>
+    </hallgato>
+</class>
