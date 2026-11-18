@@ -39,7 +39,13 @@ public class xPathQuerySldhoo {
             //String sldhoo = "/class/hallgato[2]";
             //String sldhoo = "/class/hallgato[last()]";
             //String sldhoo = "/class/hallgato[last()-1]";
-            String sldhoo = "/class/hallgato[position() <=2]";
+            //String sldhoo = "/class/hallgato[position() <=2]";
+
+            //String sldhoo = "/class/*";
+            //String sldhoo = "/class/hallgato[@*]";
+            //String sldhoo = "//*";
+            //String sldhoo = "/class/hallgato[kor > 20]";
+            String sldhoo = "/class/hallgato/vezeteknev | /class/hallgato/keresztnev";
 
 
 
